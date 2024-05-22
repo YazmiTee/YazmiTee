@@ -8,7 +8,7 @@ I have been learning Python for 8 years as a Computer Science teacher. Now I'm o
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [yterraza@hotmail.co.uk](mailto:yterraza@hotmail.co.uk)
-* 🧠  I'm learning React
+* 🧠  I'm learning JavaScript & React
 * 🤝  I'm open to collaborating on projects (especially if they are anime or gaming-related)
 
 ### Skills
